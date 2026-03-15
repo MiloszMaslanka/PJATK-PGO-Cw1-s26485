@@ -55,3 +55,6 @@
 
 **- git push -u origin <branch>**
 
+## Konflikt (ćwiczenie)
+W gałęziach feature/conflict-a i feature/conflict-b zmodyfikowano tę samą linię w README, co spowodowało konflikt podczas merge do main. Konflikt rozwiązano ręcznie i zakończono commitem e091534.
+
