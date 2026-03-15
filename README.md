@@ -1,4 +1,5 @@
-# pgo-git-start - Konflikt 
+# pgo-git-start - Konflikt A i B
+
 
 
 
